@@ -75,7 +75,9 @@ layout: default
 
     <!-- Preprints -->
     {% if page.preprints %}
-      <h2>Preprints</h2>
+      <h2>
+        <a href="{{ '/preprints/' | relative_url }}" style="color: inherit">Preprints</a>
+      </h2>
       <div class="publications">
         {% bibliography --file preprints --sort year --order descending %}
       </div>

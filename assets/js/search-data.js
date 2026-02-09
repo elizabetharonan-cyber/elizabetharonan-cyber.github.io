@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-preprints",
+          title: "Preprints",
+          description: "Preprints by Elizabeth A. Ronan, sorted in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/preprints/";
+          },
         },{id: "nav-reviews-and-commentaries",
           title: "Reviews and Commentaries",
           description: "Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.",

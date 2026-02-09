@@ -10,5 +10,5 @@ nav_order: 3
 {% include bib_search.liquid %}
 
 <div class="publications">
-{% bibliography --file papers --sort year --order descending %}
+{% bibliography --file protocols --sort year --order descending %}
 </div>

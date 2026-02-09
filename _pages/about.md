@@ -14,6 +14,7 @@ profile:
     <p>elizabeth.a.ronan@gmail.com</p>
 
 selected_papers: true
+preprints: true
 reviews_and_commentaries: true
 social: true
 

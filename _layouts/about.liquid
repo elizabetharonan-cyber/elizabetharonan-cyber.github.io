@@ -73,6 +73,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Preprints -->
+    {% if page.preprints %}
+      <h2>Preprints</h2>
+      <div class="publications">
+        {% bibliography --file preprints --sort year --order descending %}
+      </div>
+    {% endif %}
+
     <!-- Reviews and commentaries -->
     {% if page.reviews_and_commentaries %}
       <h2>

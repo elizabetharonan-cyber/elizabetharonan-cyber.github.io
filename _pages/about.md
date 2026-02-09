@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite subreddit. You can put a picture in, too. The code is already in, just name your picture prof_pic.jpg and put it in the img/ folder. Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing profile property of the YAML header of your _pages/about.md. Edit _bibliography/papers.bib and Jekyll will render your publications page automatically. Link to your social media connections, too. This theme is set up to use Font Awesome icons and Academicons, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Elizabeth A. Ronan (she/her/hers)** is a Postdoctoral Researcher at the University of Michigan School of Dentistry. Her current project investigates the molecular, cellular, and physiological roles of trigeminal somatosensory neurons innervating discrete craniofacial tissues, focusing on understanding how these neurons function in the oral cavity. This work is performed in Dr. Joshua Emrick’s laboratory and uses in vivo calcium imaging, intersectional mouse genetics, and AI-based behavioral analysis to uncover novel mechanisms of orofacial sensation.
 
 Elizabeth’s research broadly focuses on neural encoding of orofacial somatosensation and pain, integrating insights from both invertebrate and vertebrate model systems. Her long-term goal is to establish an independent laboratory to investigate how sensory neurons detect, encode, and transmit information that drives perception, behavior, and homeostasis.
 

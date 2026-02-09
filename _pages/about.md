@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Contacts. Research Focus.
 profile:
   align: right
   image: Ronan_EA_Headshot.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>University of Michigan School of Dentistry</p>
     <p>Postdoctoral Researcher</p>

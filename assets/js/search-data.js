@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Publications by Elizabeth A. Ronan, sorted in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-reviews-and-commentaries",
           title: "Reviews and Commentaries",

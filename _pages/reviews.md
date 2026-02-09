@@ -4,7 +4,7 @@ title: Reviews and Commentaries
 permalink: /reviews/
 description: Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 {% include bib_search.liquid %}

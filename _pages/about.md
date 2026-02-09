@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /about/
-subtitle: <a href='#'>Affiliations</a>. Contacts. Research Focus.
+subtitle: 
 
 profile:
   align: right

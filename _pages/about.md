@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /
+title: About Me
+permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Contacts. Research Focus.
 
 profile:

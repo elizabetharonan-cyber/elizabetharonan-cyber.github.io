@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/publications/";
           },
+        },{id: "nav-reviews-and-commentaries",
+          title: "Reviews and Commentaries",
+          description: "Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/reviews/";
+          },
         },{id: "nav-protocols",
           title: "Protocols",
           description: "Protocols by Elizabeth A. Ronan, sorted in reverse chronological order.",

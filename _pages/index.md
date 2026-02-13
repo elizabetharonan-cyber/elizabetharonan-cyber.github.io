@@ -6,7 +6,7 @@ nav: false
 ---
 
 <div style="text-align: center; padding: 3rem 0;">
-  <img src="/assets/img/2026_ER.JPG" alt="Elizabeth A. Ronan" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; margin-bottom: 2rem;" />
+  <img src="/assets/img/liz_lab1.jpg" alt="Elizabeth A. Ronan" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; margin-bottom: 2rem;" />
   
   <h1>Elizabeth A. Ronan, PhD</h1>
   <h3 style="color: var(--global-text-color-light); font-weight: 400;">Postdoctoral Researcher</h3>

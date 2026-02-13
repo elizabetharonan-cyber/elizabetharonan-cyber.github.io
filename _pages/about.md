@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Ronan_EA_Headshot.jpg
+  image: 2026_ER.JPG
   image_circular: true
   more_info: >
     <p>University of Michigan School of Dentistry</p>

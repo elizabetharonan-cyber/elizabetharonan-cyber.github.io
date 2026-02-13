@@ -23,27 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-preprints",
-          title: "Preprints",
-          description: "Preprints by Elizabeth A. Ronan, sorted in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/preprints/";
-          },
-        },{id: "nav-reviews-and-commentaries",
-          title: "Reviews and Commentaries",
-          description: "Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/reviews/";
-          },
-        },{id: "nav-protocols",
-          title: "Protocols",
-          description: "Protocols by Elizabeth A. Ronan, sorted in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/protocols/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",

@@ -35,7 +35,9 @@ nav: false
 
 <!-- Social Links -->
 <div style="max-width: 900px; margin: 0 auto; text-align: center; margin-bottom: 3rem;">
-  {% include social.liquid %}
+  <div class="social">
+    <div class="contact-icons">{% social_links %}</div>
+  </div>
 </div>
 
 <!-- Recent Highlights -->

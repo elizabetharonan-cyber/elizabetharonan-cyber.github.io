@@ -21,6 +21,12 @@ nav_order: 2
     <h4 style="margin-top: 0; margin-bottom: 1rem; font-size: 1rem;">External Profiles</h4>
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li style="margin-bottom: 0.75rem;">
+        <a href="https://www.ncbi.nlm.nih.gov/myncbi/1niJzd-Lz-oAF/bibliography/public/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+          <i class="ai ai-pubmed" style="font-size: 1.5rem; margin-right: 0.5rem;"></i>
+          NCBI Bibliography
+        </a>
+      </li>
+      <li style="margin-bottom: 0.75rem;">
         <a href="https://scholar.google.com/citations?hl=en&user=8YQwM9IAAAAJ" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
           <i class="ai ai-google-scholar" style="font-size: 1.5rem; margin-right: 0.5rem;"></i>
           Google Scholar

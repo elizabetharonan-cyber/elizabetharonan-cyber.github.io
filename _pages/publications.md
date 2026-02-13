@@ -15,6 +15,10 @@ nav_order: 2
   <a href="/protocols/" style="margin-left: 0.5rem;">Protocols</a>
 </div>
 
+<div style="margin-bottom: 2rem; text-align: center;">
+  <img src="/assets/img/teach.PNG" alt="Teaching" style="max-width: 100%; height: auto; border-radius: 8px;" />
+</div>
+
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <!-- Left Sidebar -->
   <div style="flex-shrink: 0; width: 200px; padding: 1.5rem; background-color: var(--global-bg-color); border: 1px solid var(--global-divider-color); border-radius: 6px;">

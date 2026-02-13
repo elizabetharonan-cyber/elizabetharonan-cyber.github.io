@@ -15,18 +15,18 @@ profile:
     <p>Postdoctoral Researcher</p>
     <p>elizabeth.a.ronan@gmail.com</p>
 
-selected_papers: true
-preprints: true
-reviews_and_commentaries: true
-social: true
+selected_papers: false
+preprints: false
+reviews_and_commentaries: false
+social: false
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---

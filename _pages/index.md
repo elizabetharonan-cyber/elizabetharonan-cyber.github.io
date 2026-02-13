@@ -33,12 +33,27 @@ nav: false
 
 <hr style="margin: 4rem 0;" />
 
-<div style="max-width: 900px; margin: 0 auto;">
+<!-- Social Links -->
+<div style="max-width: 900px; margin: 0 auto; text-align: center; margin-bottom: 3rem;">
+  {% include social.liquid %}
+</div>
+
+<!-- Recent Highlights -->
+<div style="max-width: 900px; margin: 0 auto; margin-bottom: 3rem;">
   <h2 style="text-align: center; margin-bottom: 2rem;">Recent Highlights</h2>
-  
-  {% if site.announcements.enabled %}
   <div class="news">
-    {% include news.liquid limit=3 %}
+    {% include news.liquid limit=5 %}
   </div>
-  {% endif %}
+</div>
+
+<!-- Selected Publications -->
+<div style="max-width: 900px; margin: 0 auto; margin-bottom: 3rem;">
+  <h2 style="text-align: center; margin-bottom: 2rem;">Selected Publications</h2>
+  {% include selected_papers.liquid %}
+</div>
+
+<!-- Latest Blog Posts -->
+<div style="max-width: 900px; margin: 0 auto;">
+  <h2 style="text-align: center; margin-bottom: 2rem;">Latest Posts</h2>
+  {% include latest_posts.liquid %}
 </div>

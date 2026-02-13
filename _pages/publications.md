@@ -16,10 +16,9 @@ nav_order: 2
 </div>
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-  <!-- Left Sidebar Column -->
-  <div style="flex-shrink: 0; width: 250px;">
-    <!-- External Profiles -->
-    <div style="padding: 1.5rem; background-color: var(--global-bg-color); border: 1px solid var(--global-divider-color); border-radius: 6px; margin-bottom: 1.5rem;">
+  <!-- Left Sidebar -->
+  <div style="flex-shrink: 0; width: 200px;">
+    <div style="padding: 1.5rem; background-color: var(--global-bg-color); border: 1px solid var(--global-divider-color); border-radius: 6px;">
       <h4 style="margin-top: 0; margin-bottom: 1rem; font-size: 1rem;">External Profiles</h4>
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li style="margin-bottom: 0.75rem;">
@@ -41,11 +40,6 @@ nav_order: 2
           </a>
         </li>
       </ul>
-    </div>
-    
-    <!-- Image -->
-    <div>
-      <img src="/assets/img/teach.PNG" alt="Teaching" style="width: 100%; height: auto; border-radius: 8px;" />
     </div>
   </div>
 

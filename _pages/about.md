@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /about/
-nav: false
+nav: true
 nav_order: 1
 subtitle:
 

@@ -436,7 +436,7 @@ ninja.data = [{
             },},{id: "news-publication-our-protocol-for-precise-activation-of-intradental-neurons-in-mice-via-single-molar-electrical-stimulation-is-now-published-in-star-protocols-we-developed-a-precision-electrical-stimulation-method-to-overcome-the-technical-barriers-to-targeting-sensory-innervation-within-the-mineralized-tooth-providing-a-robust-tool-for-studying-tooth-sensation-and-pain-using-model-organisms",
           title: 'Publication — Our protocol for precise activation of intradental neurons in mice via...',
           description: "",
-          section: "News",},{id: "news-publication-rodents-love-to-gnaw-which-can-be-cute-or-annoying-e-g-when-they-decided-to-destroy-my-car-wiring-but-our-new-collaborative-study-uncovers-why-led-by-dr-xinyu-su-and-bo-duan-lab-we-discovered-that-incisor-tactile-input-is-relayed-by-a-sensorimotor-motivational-circuit-to-drive-gnawing-published-in-neuron-featured-in-umich-news-and-science",
+          section: "News",},{id: "news-publication-rodents-love-to-gnaw-which-can-be-cute-or-annoying-e-g-when-they-decided-to-destroy-my-car-wiring-but-our-new-collaborative-study-published-in-neuron-uncovers-why-led-by-dr-xinyu-su-and-bo-duan-lab-we-discovered-that-incisor-tactile-input-is-relayed-by-a-sensorimotor-motivational-circuit-to-drive-gnawing-congratulations-to-all-the-authors-featured-in-umich-news-and-science",
           title: 'Publication — Rodents love to gnaw… which can be cute or annoying (e.g.,...',
           description: "",
           section: "News",},{id: "projects-project-1",

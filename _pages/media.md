@@ -14,3 +14,10 @@ nav_order: 9
 		<a class="btn btn-sm z-depth-0" href="https://www.nationalgeographic.com/animals/article/these-worms-hear-with-their-whole-bodies-a-first-in-nature">Article</a>
 	</div>
 </div>
+
+<div style="margin-top: 2rem;">
+	<div>
+		A sense of sound: An earless organism relies on a mechanism found across many species, new study shows (University of Michigan Life Sciences Institute, 2023-08-09): Feature on the discovery of how C. elegans senses sound through skin mechanosensory neurons and acetylcholine signaling.
+		<a class="btn btn-sm z-depth-0" href="https://www.lsi.umich.edu/news/2023-08/sense-sound-earless-organism-relies-mechanism-found-across-many-species-new-study">Article</a>
+	</div>
+</div>

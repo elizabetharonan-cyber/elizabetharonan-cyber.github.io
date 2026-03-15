@@ -8,16 +8,18 @@ nav_order: 9
 ---
 
 <style>
+  .media-wrapper {
+    position: relative;
+    min-height: 100vh;
+  }
   .media-collage-bg {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
     z-index: 0;
     opacity: 0.18;
     pointer-events: none;
-    overflow: hidden;
   }
   .media-collage-bg .collage-grid-top {
     display: grid;
@@ -43,6 +45,8 @@ nav_order: 9
     z-index: 1;
   }
 </style>
+
+<div class="media-wrapper">
 
 <div class="media-collage-bg">
   <div class="collage-grid-top">
@@ -138,5 +142,6 @@ nav_order: 9
     </div>
   </div>
 
+</div>
 </div>
 </div>

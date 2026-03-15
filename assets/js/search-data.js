@@ -16,42 +16,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/about/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research-articles",
+          title: "Research Articles",
+          description: "Publications by Elizabeth A. Ronan, sorted in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/publications/";
           },
-        },{id: "dropdown-research-articles",
-              title: "Research Articles",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
-              },
-            },{id: "dropdown-preprints",
-              title: "Preprints",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/preprints/";
-              },
-            },{id: "dropdown-reviews-amp-commentaries",
-              title: "Reviews &amp; Commentaries",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/reviews/";
-              },
-            },{id: "dropdown-protocols",
-              title: "Protocols",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/protocols/";
-              },
-            },{id: "nav-media-appearances",
+        },{id: "nav-preprints",
+          title: "Preprints",
+          description: "Preprints by Elizabeth A. Ronan, sorted in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/preprints/";
+          },
+        },{id: "nav-reviews-amp-commentaries",
+          title: "Reviews &amp; Commentaries",
+          description: "Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/reviews/";
+          },
+        },{id: "nav-protocols",
+          title: "Protocols",
+          description: "Protocols by Elizabeth A. Ronan, sorted in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/protocols/";
+          },
+        },{id: "nav-media-appearances",
           title: "Media Appearances",
           description: "Media coverage and interviews featuring Elizabeth A. Ronan.",
           section: "Navigation",

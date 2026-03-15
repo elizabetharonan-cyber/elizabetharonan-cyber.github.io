@@ -500,18 +500,18 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%65%6C%69%7A%61%62%65%74%68.%61.%72%6F%6E%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-bluesky_username',
+        title: 'Bluesky_username',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -535,18 +535,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=8YQwM9IAAAAJ", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-twitter_username',
+        title: 'Twitter_username',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.ncbi.nlm.nih.gov/myncbi/1niJzd-Lz-oAF/bibliography/public/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',

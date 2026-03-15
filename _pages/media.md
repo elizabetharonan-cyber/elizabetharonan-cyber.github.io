@@ -13,13 +13,13 @@ nav_order: 9
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 200vh;
   z-index: -1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   gap: 3px;
-  opacity: 0.12;
+  opacity: 0.22;
 }
 .media-bg-collage img {
   width: 100%;
@@ -114,3 +114,5 @@ nav_order: 9
 
 </div>
 </div>
+
+<div style="height: 60vh;"></div>

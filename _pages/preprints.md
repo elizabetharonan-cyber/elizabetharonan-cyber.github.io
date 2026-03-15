@@ -15,6 +15,8 @@ nav_order: 3
   <a href="/protocols/" style="margin-left: 0.5rem;">Protocols</a>
 </div>
 
+Take a sneak peek at articles coming soon! These preprints showcase some of my current research trajectory and ongoing projects.
+
 {% include bib_search.liquid %}
 
 <div class="publications">

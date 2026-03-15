@@ -18,7 +18,7 @@ profile:
 selected_papers: false
 preprints: false
 reviews_and_commentaries: false
-social: false
+social: true
 
 announcements:
   enabled: false

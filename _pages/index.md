@@ -17,11 +17,18 @@ nav: false
     <h3 style="color: var(--global-text-color-light); font-weight: 400; margin-top: 0.5rem;">Postdoctoral Researcher</h3>
     <p style="color: var(--global-text-color-light); margin-bottom: 2rem;">University of Michigan School of Dentistry</p>
     
-    <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 2rem;">
+    <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
       Welcome! I am a neuroscientist studying the molecular and cellular mechanisms of orofacial somatosensation and pain. 
       My research integrates insights from both invertebrate and vertebrate model systems to understand how sensory neurons 
       detect, encode, and transmit information that drives perception, behavior, and homeostasis.
     </p>
+    
+    <!-- Social Links -->
+    <div style="margin-bottom: 2rem;">
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+      </div>
+    </div>
     
     <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
       <a href="/about/" class="btn btn-primary">Learn More About Me</a>
@@ -32,13 +39,6 @@ nav: false
 </div>
 
 <hr style="margin: 4rem 0;" />
-
-<!-- Social Links -->
-<div style="max-width: 900px; margin: 0 auto; text-align: center; margin-bottom: 3rem;">
-  <div class="social">
-    <div class="contact-icons">{% social_links %}</div>
-  </div>
-</div>
 
 <!-- Recent Highlights -->
 <div style="max-width: 900px; margin: 0 auto; margin-bottom: 3rem;">

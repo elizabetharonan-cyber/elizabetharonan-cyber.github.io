@@ -15,6 +15,8 @@ nav_order: 5
   <a href="/protocols/" style="margin-left: 0.5rem;">Protocols</a>
 </div>
 
+I've optimized and shared these protocols related to my research on sensory encoding.
+
 <div class="publications">
 {% bibliography --file protocols --sort year --order descending %}
 </div>

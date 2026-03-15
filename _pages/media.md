@@ -11,7 +11,6 @@ nav_order: 9
 
   <div class="col">
     <div class="card h-100 hoverable" style="transition: transform 0.2s ease-in-out;">
-      <img src="/assets/img/NatGeo.png" class="card-img-top" alt="National Geographic article header" style="object-fit: cover; height: 180px;" />
       <div class="card-body d-flex flex-column">
         <h5 class="card-title" style="font-weight: 600;">Tiny worms hear without an eardrum, surprising scientists</h5>
         <p class="card-text" style="font-size: 0.875rem; color: var(--global-text-color-light);">

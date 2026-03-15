@@ -21,3 +21,10 @@ nav_order: 9
 		<a class="btn btn-sm z-depth-0" href="https://www.lsi.umich.edu/news/2023-08/sense-sound-earless-organism-relies-mechanism-found-across-many-species-new-study">Article</a>
 	</div>
 </div>
+
+<div style="margin-top: 2rem;">
+	<div>
+		A Frosty Reception (Rackham Graduate School, University of Michigan): Profile of research on cold-sensing glutamate receptors and sensory biology.
+		<a class="btn btn-sm z-depth-0" href="https://rackham.umich.edu/discover-rackham/frosty-reception/">Article</a>
+	</div>
+</div>

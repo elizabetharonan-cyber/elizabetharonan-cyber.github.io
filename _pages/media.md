@@ -7,21 +7,44 @@ nav: true
 nav_order: 9
 ---
 
-<div style="margin-bottom: 2rem; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.12);">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 4px;">
-    <div style="grid-column: 1 / 2; grid-row: 1 / 3;">
-      <img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill advocacy" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-    </div>
-    <div>
-      <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="Thinking" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-    </div>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4px;">
-      <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="Science communication" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-      <img src="{{ '/assets/img/LSI_Comic_Bubbles_027.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-    </div>
-  </div>
+<style>
+.media-bg-collage {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 3px;
+  opacity: 0.12;
+}
+.media-bg-collage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.media-cards .card {
+  background-color: var(--global-card-bg-color) !important;
+  backdrop-filter: blur(4px);
+}
+</style>
+
+<div class="media-bg-collage">
+  <img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/LSI_Comic_Bubbles_027.JPG' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/LSI_Comic_Bubbles_029.JPG' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/LSI_Comic_Bubbles_017.JPG' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/LSI_Comic_Bubbles_010.JPG' | relative_url }}" alt="" />
+  <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="" />
 </div>
 
+<div class="media-cards">
 <div class="row row-cols-1 row-cols-md-2 g-4" style="margin-top: 1rem;">
 
   <div class="col">
@@ -89,4 +112,5 @@ nav_order: 9
     </div>
   </div>
 
+</div>
 </div>

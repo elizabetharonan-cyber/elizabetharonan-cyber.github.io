@@ -412,16 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-publication-our-protocol-for-precise-activation-of-intradental-neurons-in-mice-via-single-molar-electrical-stimulation-is-now-published-in-star-protocols-we-developed-a-precision-electrical-stimulation-method-to-overcome-the-technical-barriers-to-targeting-sensory-innervation-within-the-mineralized-tooth-providing-a-robust-tool-for-studying-tooth-sensation-and-pain-using-model-organisms",
+          title: 'Publication — Our protocol for precise activation of intradental neurons in mice via...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-publication-our-collaborative-project-with-first-author-dr-xinyu-su-and-bo-duan-is-now-published-in-neuron-congratulations-to-all-the-authors-rodents-love-to-gnaw-which-can-be-cute-or-annoying-e-g-when-they-decided-to-destroy-my-car-wiring-but-our-new-study-uncovers-why-we-discovered-that-incisor-tactile-input-is-relayed-by-a-sensorimotor-motivational-circuit-to-drive-gnawing-featured-in-umich-news-and-science",
+          title: 'Publication — Our collaborative project with first author Dr. Xinyu Su and Bo...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

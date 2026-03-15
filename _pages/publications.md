@@ -3,7 +3,7 @@ layout: default
 title: Research Articles
 permalink: /publications/
 description: Publications by Elizabeth A. Ronan, sorted in reverse chronological order.
-nav: false
+nav: true
 nav_order: 2
 ---
 

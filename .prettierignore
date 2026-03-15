@@ -13,3 +13,5 @@ _scripts/*
 _data/citations.yml
 # Ignore BibTeX files (no prettier parser available)
 **/*.bib
+# Ignore documentation files that are auto-updated
+CUSTOMIZE.md

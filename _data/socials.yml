@@ -9,7 +9,7 @@ orcid_id: 0000-0001-7400-5718 # your ORCID ID
 scholar_userid: 8YQwM9IAAAAJ # your Google Scholar ID
 twitter_username: elizabithian # your Twitter/X username
 # rss_icon: true # comment this line to hide the RSS icon
-custom_social: # NCBI Bibliography
-  logo: https://upload.wikimedia.org/wikipedia/commons/0/07/US-NLM-PubMed-Logo.svg # NCBI/PubMed icon
-  title: NCBI Bibliography
-  url: https://www.ncbi.nlm.nih.gov/myncbi/1niJzd-Lz-oAF/bibliography/public/
+# custom_social: # NCBI Bibliography (temporarily disabled - needs local file)
+#   logo: https://upload.wikimedia.org/wikipedia/commons/0/07/US-NLM-PubMed-Logo.svg # NCBI/PubMed icon
+#   title: NCBI Bibliography
+#   url: https://www.ncbi.nlm.nih.gov/myncbi/1niJzd-Lz-oAF/bibliography/public/

@@ -61,4 +61,17 @@ nav_order: 9
     </div>
   </div>
 
+  <div class="col">
+    <div class="card h-100 hoverable" style="transition: transform 0.2s ease-in-out;">
+      <div class="card-body d-flex flex-column">
+        <h5 class="card-title" style="font-weight: 600;">Let's Talk SciComm</h5>
+        <p class="card-text" style="font-size: 0.875rem; color: var(--global-text-color-light);">
+          <strong>UM Life Sciences Institute Magazine</strong> &middot; 2019
+        </p>
+        <p class="card-text" style="flex-grow: 1;">Feature on science communication and policy advocacy, including Capitol Hill visits with the American Physiological Society to discuss the importance of model organisms in research.</p>
+        <a href="/assets/img/LSI2019.pdf" class="btn btn-sm btn-outline-primary mt-auto" style="align-self: flex-start;" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> View PDF</a>
+      </div>
+    </div>
+  </div>
+
 </div>

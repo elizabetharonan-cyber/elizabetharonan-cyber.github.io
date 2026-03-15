@@ -7,36 +7,69 @@ nav: true
 nav_order: 9
 ---
 
-<div style="margin-bottom: 2rem; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.12);">
-  <div style="display: grid; grid-template-columns: 2fr 1fr 1fr; grid-template-rows: auto auto; gap: 4px;">
-    <div style="grid-row: 1 / 3;">
-      <img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill advocacy" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+<style>
+  .media-collage-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.18;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .media-collage-bg .collage-grid-top {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 4px;
+    height: 50vh;
+  }
+  .media-collage-bg .collage-grid-bottom {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    gap: 4px;
+    margin-top: 4px;
+    height: 50vh;
+  }
+  .media-collage-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .media-content {
+    position: relative;
+    z-index: 1;
+  }
+</style>
+
+<div class="media-collage-bg">
+  <div class="collage-grid-top">
+    <div>
+      <img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill advocacy" />
     </div>
     <div>
-      <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="Thinking" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="Thinking" />
     </div>
     <div>
-      <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="Science communication" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-    </div>
-    <div>
-      <img src="{{ '/assets/img/LSI_Comic_Bubbles_027.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
-    </div>
-    <div>
-      <img src="{{ '/assets/img/LSI_Comic_Bubbles_029.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="Science communication" />
     </div>
   </div>
-  <div style="display: grid; grid-template-columns: 1fr 1fr 2fr; gap: 4px; margin-top: 4px;">
+  <div class="collage-grid-bottom">
     <div>
-      <img src="{{ '/assets/img/LSI_Comic_Bubbles_017.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 200px; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/LSI_Comic_Bubbles_017.JPG' | relative_url }}" alt="LSI Comic Bubbles" />
     </div>
     <div>
-      <img src="{{ '/assets/img/LSI_Comic_Bubbles_010.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 200px; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/LSI_Comic_Bubbles_010.JPG' | relative_url }}" alt="LSI Comic Bubbles" />
     </div>
     <div>
-      <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Teaching" style="width: 100%; height: 200px; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Teaching" />
     </div>
   </div>
 </div>
+
+<div class="media-content">
 
 <div class="row row-cols-1 row-cols-md-2 g-4" style="margin-top: 1rem;">
 
@@ -105,4 +138,5 @@ nav_order: 9
     </div>
   </div>
 
+</div>
 </div>

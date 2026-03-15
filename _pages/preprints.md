@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Preprints
 permalink: /preprints/
 description: Preprints by Elizabeth A. Ronan, sorted in reverse chronological order.
-nav: true
+nav: false
 nav_order: 3
 ---
 

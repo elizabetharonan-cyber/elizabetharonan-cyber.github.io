@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Reviews & Commentaries
 permalink: /reviews/
 description: Reviews and commentaries by Elizabeth A. Ronan, sorted in reverse chronological order.
-nav: true
+nav: false
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-nav: false
+nav: true
 nav_order: 2
 dropdown: true
 children:
@@ -11,7 +11,6 @@ children:
     permalink: /preprints/
   - title: Reviews & Commentaries
     permalink: /reviews/
-  - title: divider
   - title: Protocols
     permalink: /protocols/
 ---

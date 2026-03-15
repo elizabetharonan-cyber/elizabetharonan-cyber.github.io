@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Protocols
 permalink: /protocols/
 description: Protocols by Elizabeth A. Ronan, sorted in reverse chronological order.
-nav: true
+nav: false
 nav_order: 5
 ---
 

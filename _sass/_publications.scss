@@ -4,6 +4,22 @@
 
 @use "variables" as v;
 
+.selected-papers .publications {
+  ol.bibliography li {
+    .row {
+      .col-sm-2 {
+        flex: 0 0 25%;
+        max-width: 25%;
+      }
+
+      .col-sm-8 {
+        flex: 0 0 75%;
+        max-width: 75%;
+      }
+    }
+  }
+}
+
 .publications {
   margin-top: 2rem;
 

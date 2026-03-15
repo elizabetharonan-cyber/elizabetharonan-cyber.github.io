@@ -52,7 +52,7 @@ nav: false
 </div>
 
 <!-- Selected Publications -->
-<div style="max-width: 900px; margin: 0 auto; margin-bottom: 3rem;">
+<div class="selected-papers" style="max-width: 900px; margin: 0 auto; margin-bottom: 3rem;">
   <h2 style="text-align: center; margin-bottom: 2rem;">Selected Publications</h2>
   {% include selected_papers.liquid %}
 </div>

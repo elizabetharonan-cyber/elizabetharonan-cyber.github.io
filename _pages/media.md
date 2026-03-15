@@ -28,3 +28,10 @@ nav_order: 9
 		<a class="btn btn-sm z-depth-0" href="https://rackham.umich.edu/discover-rackham/frosty-reception/">Article</a>
 	</div>
 </div>
+
+<div style="margin-top: 2rem;">
+	<div>
+		On Capitol Hill with the American Physiological Society (Ford School of Public Policy, University of Michigan, 2019): Feature on science policy advocacy and participation in the APS Capitol Hill Day.
+		<a class="btn btn-sm z-depth-0" href="https://stpp.fordschool.umich.edu/news/2019/capitol-hill-american-physiological-society">Article</a>
+	</div>
+</div>

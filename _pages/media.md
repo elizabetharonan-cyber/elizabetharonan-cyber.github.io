@@ -62,7 +62,7 @@ nav_order: 9
   </div>
   <div class="collage-grid-bottom">
     <div>
-      <img src="{{ '/assets/img/IAmAScientist.jpg' | relative_url }}" alt="I Am A Scientist" />
+      <img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" />
     </div>
     <div>
       <img src="{{ '/assets/img/LSI_Comic_Bubbles_010.JPG' | relative_url }}" alt="LSI Comic Bubbles" />

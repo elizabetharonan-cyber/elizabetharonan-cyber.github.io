@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: right
-  image: 2026_ER_2.JPG
+  image: 2026_ER_2crop.JPG
   image_circular: true
   more_info: >
     <p>University of Michigan School of Dentistry</p>

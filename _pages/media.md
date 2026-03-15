@@ -17,22 +17,27 @@ nav_order: 9
     top: 0;
     left: 0;
     width: 100%;
+    height: 100%;
     z-index: 0;
     opacity: 0.18;
     pointer-events: none;
+    display: flex;
+    flex-direction: column;
   }
   .media-collage-bg .collage-grid-top {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr;
     gap: 4px;
-    height: 50vh;
+    flex: 1;
+    min-height: 0;
   }
   .media-collage-bg .collage-grid-bottom {
     display: grid;
     grid-template-columns: 1fr 1fr 2fr;
     gap: 4px;
     margin-top: 4px;
-    height: 50vh;
+    flex: 1;
+    min-height: 0;
   }
   .media-collage-bg img {
     width: 100%;

@@ -15,7 +15,8 @@ nav_order: 5
   <a href="/protocols/" style="margin-left: 0.5rem;">Protocols</a>
 </div>
 
-I've optimized and shared these protocols related to my research on sensory encoding.
+**Reproducible science starts here.**
+Here are accessible protocols I've fine-tuned for my sensory encoding research across several model systems—all openly shared for easy replication:
 
 <div class="publications">
 {% bibliography --file protocols --sort year --order descending %}

@@ -23,14 +23,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "Publications by Elizabeth A. Ronan, sorted in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-media-appearances",
+        },{id: "dropdown-research-articles",
+              title: "Research Articles",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-preprints",
+              title: "Preprints",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/preprints/";
+              },
+            },{id: "dropdown-reviews-amp-commentaries",
+              title: "Reviews &amp; Commentaries",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/reviews/";
+              },
+            },{id: "dropdown-protocols",
+              title: "Protocols",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/protocols/";
+              },
+            },{id: "nav-media-appearances",
           title: "Media Appearances",
           description: "Media coverage and interviews featuring Elizabeth A. Ronan.",
           section: "Navigation",

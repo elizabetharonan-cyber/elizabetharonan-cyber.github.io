@@ -7,6 +7,21 @@ nav: true
 nav_order: 9
 ---
 
+<div style="margin-bottom: 2rem; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.12);">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 4px;">
+    <div style="grid-column: 1 / 2; grid-row: 1 / 3;">
+      <img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill advocacy" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+    </div>
+    <div>
+      <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="Thinking" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4px;">
+      <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="Science communication" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+      <img src="{{ '/assets/img/LSI_Comic_Bubbles_027.JPG' | relative_url }}" alt="LSI Comic Bubbles" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+    </div>
+  </div>
+</div>
+
 <div class="row row-cols-1 row-cols-md-2 g-4" style="margin-top: 1rem;">
 
   <div class="col">

@@ -15,8 +15,6 @@ nav_order: 4
   <a href="/protocols/" style="margin-left: 0.5rem;">Protocols</a>
 </div>
 
-{% include bib_search.liquid %}
-
 <div class="publications reviews-page">
 {% bibliography --file reviews --sort year --order descending %}
 </div>

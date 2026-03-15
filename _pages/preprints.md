@@ -17,8 +17,6 @@ nav_order: 3
 
 Take a sneak peek at articles coming soon! These preprints showcase some of my current research trajectory and ongoing projects.
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 {% bibliography --file preprints --sort year --order descending %}
 </div>

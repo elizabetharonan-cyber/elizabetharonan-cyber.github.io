@@ -24,10 +24,13 @@ nav: false
     </p>
     
     <!-- Social Links -->
-    <div style="margin-bottom: 2rem;">
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-      </div>
+    <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap; font-size: 1.5rem;">
+      <a href="mailto:elizabeth.a.ronan@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://bsky.app/profile/elizabithian.bsky.social" target="_blank" rel="noopener noreferrer" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+      <a href="https://www.linkedin.com/in/lizronan/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://orcid.org/0000-0001-7400-5718" target="_blank" rel="noopener noreferrer" title="ORCID"><i class="ai ai-orcid"></i></a>
+      <a href="https://scholar.google.com/citations?user=8YQwM9IAAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://x.com/elizabithian" target="_blank" rel="noopener noreferrer" title="Twitter/X"><i class="fa-brands fa-x-twitter"></i></a>
     </div>
     
     <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">

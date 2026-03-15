@@ -9,7 +9,7 @@ nav_order: 11
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/liz_color.jpeg" alt="Elizabeth A. Ronan" style="width: 300px; height: auto; border-radius: 8px;" />
+    <img src="/assets/img/Ronan_EA_Headshot.jpg" alt="Elizabeth A. Ronan" style="width: 300px; height: auto; border-radius: 8px;" />
   </div>
   <div>
     <h2>Get in Touch</h2>

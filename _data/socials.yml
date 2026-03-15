@@ -3,9 +3,11 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: elizabeth.a.ronan@gmail.com # your email address
+bluesky_username: elizabithian.bsky.social # your Bluesky handle
 linkedin_username: lizronan # your LinkedIn username
 orcid_id: 0000-0001-7400-5718 # your ORCID ID
 scholar_userid: 8YQwM9IAAAAJ # your Google Scholar ID
+twitter_username: elizabithian # your Twitter/X username
 rss_icon: true # comment this line to hide the RSS icon
 custom_social: # NCBI Bibliography
   logo: https://cdn.ncbi.nlm.nih.gov/corehtml/pmc/v20240829T112859/img/bookshelf/pubmed-icon.svg # NCBI/PubMed icon

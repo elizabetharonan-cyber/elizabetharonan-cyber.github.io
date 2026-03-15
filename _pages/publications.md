@@ -7,6 +7,8 @@ nav: false
 nav_order: 2
 ---
 
+{% include research_nav.liquid %}
+
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <!-- Left Sidebar -->
   <div style="flex-shrink: 0; width: 200px;">

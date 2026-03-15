@@ -7,6 +7,8 @@ nav: false
 nav_order: 4
 ---
 
+{% include research_nav.liquid %}
+
 <div class="publications reviews-page">
 {% bibliography --file reviews --sort year --order descending %}
 </div>

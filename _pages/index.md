@@ -1,11 +1,12 @@
----
 layout: page
+---
 title: Home
 permalink: /
 nav: false
----
-<div style="width: 100vw; max-width: 100%; height: 340px; overflow: hidden; margin-bottom: 2.5rem; position: relative; left: 50%; right: 50%; transform: translate(-50%, 0); box-shadow: 0 4px 18px rgba(0,0,0,0.13); background: var(--global-bg-color);">
-  <img src="{{ '/assets/img/TG.JPG' | relative_url }}" alt="Banner" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+<div style="position: relative;">
+  <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 110vw; height: 320px; z-index: 0; opacity: 0.22; pointer-events: none;">
+    <img src="{{ '/assets/img/TG.JPG' | relative_url }}" alt="Banner" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+  </div>
 </div>
 
 <div style="display: flex; gap: 3rem; align-items: center; padding: 0; flex-wrap: wrap;">

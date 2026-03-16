@@ -4,6 +4,9 @@ title: Home
 permalink: /
 nav: false
 ---
+<div style="width: 100vw; max-width: 100%; height: 340px; overflow: hidden; margin-bottom: 2.5rem; position: relative; left: 50%; right: 50%; transform: translate(-50%, 0); box-shadow: 0 4px 18px rgba(0,0,0,0.13); background: var(--global-bg-color);">
+  <img src="{{ '/assets/img/TG.JPG' | relative_url }}" alt="Banner" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+</div>
 
 <div style="display: flex; gap: 3rem; align-items: center; padding: 0; flex-wrap: wrap;">
   <!-- Image -->

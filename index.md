@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-nav: false
+nav: true
 ---
 
 <!-- Home page content copied from _pages/index.md -->

@@ -1,3 +1,10 @@
+---
+layout: about
+title: About Me
+permalink: /about/
+nav: true
+nav_order: 1
+subtitle: >
   <span style="font-size:1.3rem; font-weight:400; font-style:italic; color:var(--global-theme-color);">Neural encoding of orofacial somatosensation and pain</span>
 
 profile:
@@ -23,6 +30,7 @@ latest_posts:
   enabled: false
   scrollable: true
   limit: 3
+---
 ---
 
 My research seeks to determine how animals sense their internal and external worlds to survive and thrive. I aim to advance understanding of how animals detect and encode salient sensory cues within individual tissues, and transduce these signals to drive appropriate physiological and behavioral responses to maintain homeostasis.

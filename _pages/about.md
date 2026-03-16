@@ -6,14 +6,12 @@ nav: true
 nav_order: 1
 subtitle: >
   <span style="font-size:1.3rem; font-weight:400; font-style:italic; color:var(--global-theme-color);">Neural encoding of orofacial somatosensation and pain</span>
-
-profile:
-  align: right
-  image: 2026_ER_2crop.JPG
-  image_circular: true
-  more_info: >
-    <p>University of Michigan School of Dentistry</p>
-    <p>Postdoctoral Researcher</p>
+layout: about
+title: About Me
+permalink: /about/
+nav: true
+nav_order: 1
+subtitle: >
     <p>elizabeth.a.ronan@gmail.com</p>
 
 selected_papers: false

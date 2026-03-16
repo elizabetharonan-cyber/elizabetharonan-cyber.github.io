@@ -9,6 +9,8 @@ nav_order: 3
 
 {% include research_nav.liquid %}
 
+{% include external_profiles.liquid %}
+
 <style>
   .preprints-bg {
     position: fixed;
@@ -17,7 +19,7 @@ nav_order: 3
     width: 100vw;
     height: 100vh;
     z-index: 0;
-    opacity: 0.15;
+    opacity: 0.10;
     pointer-events: none;
     background: url('{{ "/assets/img/teach.PNG" | relative_url }}') center / cover no-repeat;
   }
@@ -31,7 +33,7 @@ nav_order: 3
 
 <div class="preprints-content">
 
-<div class="publications">
+<div class="publications" style="background-color: var(--global-bg-color); padding: 1.5rem 2rem; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
 {% bibliography --file preprints --sort year --order descending %}
 </div>
 

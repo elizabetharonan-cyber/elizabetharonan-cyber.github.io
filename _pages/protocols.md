@@ -9,6 +9,8 @@ nav_order: 5
 
 {% include research_nav.liquid %}
 
+{% include external_profiles.liquid %}
+
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, var(--global-bg-color) 0%, var(--global-code-bg-color) 100%); border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-left: 4px solid var(--global-theme-color); flex-wrap: wrap;">
   <div style="flex-shrink: 0;">
     <img src="{{ '/assets/img/liz_lab2.jpg' | relative_url }}" alt="Elizabeth in the lab" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; box-shadow: 0 3px 10px rgba(0,0,0,0.15);" />

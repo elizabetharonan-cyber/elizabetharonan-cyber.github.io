@@ -109,7 +109,7 @@ nav_order: 9
         <p class="card-text" style="font-size: 0.875rem; color: var(--global-text-color-light);">
           <strong>Rackham Graduate School</strong> &middot; University of Michigan
         </p>
-        <p class="card-text" style="flex-grow: 1;">Profile of research on cold-sensing glutamate receptors and sensory biology.</p>
+        <p class="card-text" style="flex-grow: 1;">There's no mistaking when it's cold outside, but how our bodies know that has been an open question. Molecular and integrative physiology Ph.D. student Elizabeth Ronan is working to understand where that chilly feeling comes from.</p>
         <a href="https://rackham.umich.edu/discover-rackham/frosty-reception/" class="btn btn-sm btn-outline-primary mt-auto" style="align-self: flex-start;" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i> Read Article</a>
       </div>
     </div>

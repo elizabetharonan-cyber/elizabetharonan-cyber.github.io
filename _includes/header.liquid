@@ -51,7 +51,7 @@
             {% endif %}
           {% endfor %}
 
-          <!-- About -->
+          <!-- Home -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
@@ -61,10 +61,23 @@
             </a>
           </li>
 
+          <!-- About Me -->
+          {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
+          {% if about_page %}
+            <li class="nav-item {% if page.permalink == '/about/' %}active{% endif %}">
+              <a class="nav-link" href="{{ '/about/' | relative_url }}">
+                {{ about_page.title }}
+                {% if page.permalink == '/about/' %}
+                  <span class="sr-only">(current)</span>
+                {% endif %}
+              </a>
+            </li>
+          {% endif %}
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
-            {% if p.nav and p.autogen == null and p.permalink != '/' %}
+            {% if p.nav and p.autogen == null and p.permalink != '/' and p.permalink != '/about/' %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}

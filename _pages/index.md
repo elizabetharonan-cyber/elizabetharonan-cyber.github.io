@@ -39,6 +39,7 @@ nav_order: 2
       <a href="/about/" class="btn btn-primary">Learn More About Me</a>
       <a href="/publications/" class="btn btn-outline-primary">View Publications</a>
       <a href="/contact/" class="btn btn-outline-primary">Contact Me</a>
+        <a href="/assets/img/RonanElizabeth_CV.pdf" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">CV</a>
     </div>
   </div>
 </div>

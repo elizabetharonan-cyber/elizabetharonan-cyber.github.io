@@ -9,12 +9,6 @@ nav_order: 3
 
 {% include research_nav.liquid %}
 
-<div class="research-with-sidebar">
-<div class="research-sidebar-banner">
-  <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Elizabeth teaching" />
-</div>
-<div class="research-main-content">
-
 {% include external_profiles.liquid %}
 
 <style>
@@ -44,6 +38,3 @@ nav_order: 3
 </div>
 
 </div>
-
-</div><!-- .research-main-content -->
-</div><!-- .research-with-sidebar -->

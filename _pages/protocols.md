@@ -9,12 +9,6 @@ nav_order: 5
 
 {% include research_nav.liquid %}
 
-<div class="research-with-sidebar">
-<div class="research-sidebar-banner">
-  <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Elizabeth teaching" />
-</div>
-<div class="research-main-content">
-
 {% include external_profiles.liquid %}
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, var(--global-bg-color) 0%, var(--global-code-bg-color) 100%); border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-left: 4px solid var(--global-theme-color); flex-wrap: wrap;">
@@ -30,6 +24,3 @@ nav_order: 5
 <div class="publications">
 {% bibliography --file protocols --sort year --order descending %}
 </div>
-
-</div><!-- .research-main-content -->
-</div><!-- .research-with-sidebar -->

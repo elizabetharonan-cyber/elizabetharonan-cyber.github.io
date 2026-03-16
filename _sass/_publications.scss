@@ -37,12 +37,6 @@ details[open] > summary .fa-chevron-right {
         flex: 0 0 100%;
         max-width: 100%;
         order: -1;
-
-        .title {
-          font-size: 1.2rem;
-          font-weight: 600;
-          margin-bottom: 0.5rem;
-        }
       }
 
       .abbr {
@@ -95,6 +89,12 @@ details[open] > summary .fa-chevron-right {
 
     li {
       margin-bottom: 1rem;
+
+      .title {
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
 
       .preview {
         display: inline-block;

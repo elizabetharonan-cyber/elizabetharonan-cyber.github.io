@@ -50,5 +50,10 @@ nav_order: 2
 {% bibliography --file papers --query @*[author ~= Emrick] --sort year --order descending %}
 </div>
 
+<h3 style="color: var(--global-theme-color); border-bottom: 2px solid var(--global-theme-color); padding-bottom: 0.4rem; margin-top: 2.5rem; margin-bottom: 0.5rem;">Tissue Engineering (Larkin Lab, MS)</h3>
+<div class="publications">
+{% bibliography --file papers --query @*[author ~= Larkin] --sort year --order descending %}
+</div>
+
   </div>
 </div>

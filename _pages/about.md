@@ -36,3 +36,16 @@ My research seeks to determine how animals sense their internal and external wor
 During my doctoral training, I established a solid foundation in sensory physiology and genetics. My research investigated fundamental questions in sensory biology using the nematode _C. elegans_. Highlights include the discovery of a noxious cold receptor, GluK2, that is evolutionarily conserved from worms to mammals. My work also contributed to the discovery that _C. elegans_ can sense airborne sound despite lacking ears, providing the first evidence that this modality is conserved in lower phyla. These experiences exemplify my drive to creatively tackle fundamental, long-standing questions in sensory biology.
 
 In my postdoctoral training, I pivoted to investigating mammalian orofacial somatosensation under the guidance of Dr. Joshua Emrick at the UM School of Dentistry. I seek to systematically define the functional, molecular, and physiological roles of trigeminal somatosensory neurons innervating discrete craniofacial tissues using in vivo calcium imaging, intersectional mouse genetics, and AI-based behavior analysis. My recent research identified a discrete population of molar innervating mechano-nociceptors that initiate a protective jaw-opening reflex, reconceptualizing the function of tooth sensation from purely nociceptive to protective.
+
+<div style="margin-top: 3rem;">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.12);">
+    <div><img src="{{ '/assets/img/grad.JPG' | relative_url }}" alt="Graduation" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/teach.PNG' | relative_url }}" alt="Teaching" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/teach2.JPG' | relative_url }}" alt="Teaching" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/CapitolHill2.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/award.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+  </div>
+</div>

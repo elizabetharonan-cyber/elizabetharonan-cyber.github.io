@@ -1,4 +1,3 @@
----
 layout: about
 title: About Me
 permalink: /about/
@@ -30,10 +29,22 @@ latest_posts:
   enabled: false
   scrollable: true
   limit: 3
----
 
 My research seeks to determine how animals sense their internal and external worlds to survive and thrive. I aim to advance understanding of how animals detect and encode salient sensory cues within individual tissues, and transduce these signals to drive appropriate physiological and behavioral responses to maintain homeostasis.
 
 During my doctoral training, I established a solid foundation in sensory physiology and genetics. My research investigated fundamental questions in sensory biology using the nematode _C. elegans_. Highlights include the discovery of a noxious cold receptor, GluK2, that is evolutionarily conserved from worms to mammals. My work also contributed to the discovery that _C. elegans_ can sense airborne sound despite lacking ears, providing the first evidence that this modality is conserved in lower phyla. These experiences exemplify my drive to creatively tackle fundamental, long-standing questions in sensory biology.
 
 In my postdoctoral training, I pivoted to investigating mammalian orofacial somatosensation under the guidance of Dr. Joshua Emrick at the UM School of Dentistry. I seek to systematically define the functional, molecular, and physiological roles of trigeminal somatosensory neurons innervating discrete craniofacial tissues using in vivo calcium imaging, intersectional mouse genetics, and AI-based behavior analysis. My recent research identified a discrete population of molar innervating mechano-nociceptors that initiate a protective jaw-opening reflex, reconceptualizing the function of tooth sensation from purely nociceptive to protective.
+
+<!-- Photo Collage -->
+<div style="margin-top: 2.5rem; display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; background: var(--global-bg-color); padding: 18px 0; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.13);">
+  <img src="/assets/img/bb3.JPG" alt="bb3" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/award3.JPG" alt="award3" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/CapitolHill.jpg" alt="Capitol Hill" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/poster_AADOCR25.jpg" alt="Poster AADOCR25" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/grad4.jpg" alt="Grad4" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/IAmAScientst.JPG" alt="I Am A Scientist" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/teaching2.JPG" alt="Teaching2" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/teach.PNG" alt="Teach" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="/assets/img/lab3.jpg" alt="Lab3" style="width: 180px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+</div>

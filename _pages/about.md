@@ -43,13 +43,5 @@ In my postdoctoral training, I pivoted to investigating mammalian orofacial soma
 </div>
 
 <div style="margin-top: 2.5rem; display: flex; gap: 24px; justify-content: center;">
-<div style="margin-top: 3.5rem; display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 180px); gap: 8px; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 18px rgba(0,0,0,0.13); background: var(--global-bg-color);">
-  <div style="grid-column: 1 / span 1; grid-row: 1 / span 2;"><img src="{{ '/assets/img/bb3.JPG' | relative_url }}" alt="BB3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 2 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 3 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/capitolHill.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 4 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 2 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 3 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 4 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Teaching 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 1 / span 2; grid-row: 2 / span 1;"><img src="{{ '/assets/img/teach.PNG' | relative_url }}" alt="Teach" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-</div>
+<div style="margin-top: 3.5rem; display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; background: var(--global-bg-color); padding: 16px 0; border-radius: 14px; box-shadow: 0 4px 18px rgba(0,0,0,0.13);">
+<!-- Collage removed as requested -->

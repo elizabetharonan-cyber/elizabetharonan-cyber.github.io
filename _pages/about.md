@@ -4,7 +4,8 @@ title: About Me
 permalink: /about/
 nav: true
 nav_order: 1
-subtitle: <span style="font-size:1.3rem; font-weight:400; font-style:italic; color:var(--global-theme-color);">Neural encoding of orofacial somatosensation and pain</span>
+subtitle: >
+  <span style="font-size:1.3rem; font-weight:400; font-style:italic; color:var(--global-theme-color);">Neural encoding of orofacial somatosensation and pain</span>
 
 profile:
   align: right

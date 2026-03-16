@@ -1,8 +1,10 @@
+---
 layout: page
 title: Home
 permalink: /
 nav: true
 nav_order: 2
+---
 <div style="display: flex; gap: 3rem; align-items: center; padding: 0; flex-wrap: wrap;">
   <div style="flex-shrink: 0;">
     <img src="{{ '/assets/img/liz_lab1.jpg' | relative_url }}" alt="Elizabeth A. Ronan" style="width: 400px; max-width: 100%; height: auto; border-radius: 8px;" />

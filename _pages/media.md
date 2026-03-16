@@ -56,7 +56,7 @@ nav_order: 9
       <img src="{{ '/assets/img/think.JPG' | relative_url }}" alt="Thinking" />
     </div>
     <div>
-      <img src="{{ '/assets/img/SciComm.png' | relative_url }}" alt="Science communication" />
+      <img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic Bubbles" />
     </div>
   </div>
   <div class="collage-grid-bottom">
@@ -96,7 +96,7 @@ nav_order: 9
         <p class="card-text" style="font-size: 0.875rem; color: var(--global-text-color-light);">
           <strong>UM Life Sciences Institute</strong> &middot; August 2023
         </p>
-        <p class="card-text" style="flex-grow: 1;">Feature on the discovery of how <em>C. elegans</em> senses sound through skin mechanosensory neurons and acetylcholine signaling.</p>
+        <p class="card-text" style="flex-grow: 1;">Researchers from the University of Michigan Life Sciences Institute discovered how millimeter-long roundworms sense sound waves without ears, revealing similarities in sound-sensing mechanisms found across species — from worms to mammals.</p>
         <a href="https://www.lsi.umich.edu/news/2023-08/sense-sound-earless-organism-relies-mechanism-found-across-many-species-new-study" class="btn btn-sm btn-outline-primary mt-auto" style="align-self: flex-start;" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i> Read Article</a>
       </div>
     </div>

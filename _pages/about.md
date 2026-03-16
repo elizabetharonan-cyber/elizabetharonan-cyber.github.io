@@ -38,18 +38,30 @@ During my doctoral training, I established a solid foundation in sensory physiol
 
 In my postdoctoral training, I pivoted to investigating mammalian orofacial somatosensation under the guidance of Dr. Joshua Emrick at the UM School of Dentistry. I seek to systematically define the functional, molecular, and physiological roles of trigeminal somatosensory neurons innervating discrete craniofacial tissues using in vivo calcium imaging, intersectional mouse genetics, and AI-based behavior analysis. My recent research identified a discrete population of molar innervating mechano-nociceptors that initiate a protective jaw-opening reflex, reconceptualizing the function of tooth sensation from purely nociceptive to protective.
 
-<div style="margin-top: 3rem;">
-  <!-- Collage removed as requested -->
-</div>
+<div style="margin-top: 3.5rem; display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: 200px; gap: 12px; border-radius: 14px; background: var(--global-bg-color);">
+  
+  <div style="grid-column: span 1; grid-row: span 2;">
+    <img src="{{ '/assets/img/bb3.JPG' | relative_url }}" alt="BB3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px; transition: transform 0.3s ease;" />
+  </div>
 
-<div style="margin-top: 2.5rem; display: flex; gap: 24px; justify-content: center;">
-<div style="margin-top: 3.5rem; display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 180px); gap: 8px; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 18px rgba(0,0,0,0.13); background: var(--global-bg-color);">
-  <div style="grid-column: 1 / span 1; grid-row: 1 / span 2;"><img src="{{ '/assets/img/bb3.JPG' | relative_url }}" alt="BB3" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 2 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 3 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/capitolHill.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 4 / span 1; grid-row: 1 / span 1;"><img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 2 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 3 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 4 / span 1; grid-row: 2 / span 1;"><img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Teaching 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
-  <div style="grid-column: 1 / span 2; grid-row: 2 / span 1;"><img src="{{ '/assets/img/teach.PNG' | relative_url }}" alt="Teach" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" /></div>
+  <div style="grid-column: span 2; grid-row: span 1;">
+    <img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+  </div>
+
+  <div style="grid-column: span 1; grid-row: span 1;">
+    <img src="{{ '/assets/img/capitolHill.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+  </div>
+
+  <div style="grid-column: span 1; grid-row: span 1;">
+    <img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+  </div>
+
+  <div style="grid-column: span 1; grid-row: span 1;">
+    <img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+  </div>
+
+  <div style="grid-column: span 1; grid-row: span 1;">
+    <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Teaching 2" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+  </div>
+
 </div>

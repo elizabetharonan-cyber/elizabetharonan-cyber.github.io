@@ -47,6 +47,12 @@ In my postdoctoral training, I pivoted to investigating mammalian orofacial soma
     <div><img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/award.JPG' | relative_url }}" alt="Award" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+      <div><img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
   </div>
+</div>
+
+<div style="margin-top: 2.5rem; display: flex; gap: 24px; justify-content: center;">
+  <img src="{{ '/assets/img/bb.jpg' | relative_url }}" alt="BB" style="width: 420px; max-width: 48vw; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.13);" />
+  <img src="{{ '/assets/img/lab3.jpg' | relative_url }}" alt="Lab 3" style="width: 420px; max-width: 48vw; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.13);" />
 </div>

@@ -20,6 +20,10 @@
   }
 }
 
+details[open] > summary .fa-chevron-right {
+  transform: rotate(90deg);
+}
+
 .publications {
   margin-top: 2rem;
 

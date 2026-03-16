@@ -141,5 +141,18 @@ nav_order: 9
     </div>
   </div>
 
+  <div class="col">
+    <div class="card h-100 hoverable" style="transition: transform 0.2s ease-in-out;">
+      <div class="card-body d-flex flex-column">
+        <h5 class="card-title" style="font-weight: 600;">Worms sense sound pressure gradients</h5>
+        <p class="card-text" style="font-size: 0.875rem; color: var(--global-text-color-light);">
+          <strong>Current Biology</strong> &middot; Vol. 33, Issue 18 &middot; August 2023
+        </p>
+        <p class="card-text" style="flex-grow: 1;">Video abstract showing how <em>C. elegans</em> senses sound pressure gradients rather than absolute sound pressure to drive phonotaxis behavior — a mechanism shared with the human cochlea and some insect ears.</p>
+        <a href="https://www.youtube.com/watch?v=Gdp0U_z2cTM" class="btn btn-sm btn-outline-primary mt-auto" style="align-self: flex-start;" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-youtube"></i> Watch Video</a>
+      </div>
+    </div>
+  </div>
+
 </div>
 </div>

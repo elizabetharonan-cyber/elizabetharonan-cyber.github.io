@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Home
@@ -7,10 +6,12 @@ nav: false
 ---
 
 <div style="display: flex; gap: 3rem; align-items: center; padding: 0; flex-wrap: wrap;">
-  <!-- Image -->
   <div style="flex-shrink: 0;">
-    <img src="/assets/img/liz_lab1.jpg" alt="Elizabeth A. Ronan" style="width: 400px; max-width: 100%; height: auto; border-radius: 8px;" />
+    <img src="{{ '/assets/img/liz_lab1.jpg' | relative_url }}" alt="Elizabeth A. Ronan" style="width: 400px; max-width: 100%; height: auto; border-radius: 8px;" />
   </div>
+  <div>
+    </div>
+</div>
   
   <!-- Content -->
   <div style="flex: 1; min-width: 300px;">

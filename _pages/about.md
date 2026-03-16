@@ -44,8 +44,8 @@ In my postdoctoral training, I pivoted to investigating mammalian orofacial soma
     <div><img src="{{ '/assets/img/IAmAScientst.JPG' | relative_url }}" alt="I Am A Scientist" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/teach2.JPG' | relative_url }}" alt="Teaching" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/LSI_Comic_Bubbles_004.JPG' | relative_url }}" alt="LSI Comic" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
-    <div><img src="{{ '/assets/img/CapitolHill2.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
-    <div><img src="{{ '/assets/img/award.jpg' | relative_url }}" alt="Award" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/CapitolHill.jpg' | relative_url }}" alt="Capitol Hill" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
+    <div><img src="{{ '/assets/img/award.JPG' | relative_url }}" alt="Award" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
     <div><img src="{{ '/assets/img/poster_AADOCR25.jpg' | relative_url }}" alt="AADOCR Poster" style="width: 100%; height: 200px; object-fit: cover; display: block;" /></div>
   </div>
 </div>

@@ -9,6 +9,12 @@ nav_order: 2
 
 {% include research_nav.liquid %}
 
+<div class="research-with-sidebar">
+<div class="research-sidebar-banner">
+  <img src="{{ '/assets/img/teaching2.JPG' | relative_url }}" alt="Elizabeth teaching" />
+</div>
+<div class="research-main-content">
+
 {% include external_profiles.liquid %}
 
 <h3 style="color: var(--global-theme-color); border-bottom: 2px solid var(--global-theme-color); padding-bottom: 0.4rem; margin-bottom: 0.5rem;">Orofacial Somatosensation (Emrick Lab, Postdoc)</h3>
@@ -25,3 +31,6 @@ nav_order: 2
 <div class="publications">
 {% bibliography --file papers --query @*[author ~= Larkin] --sort year --order descending %}
 </div>
+
+</div><!-- .research-main-content -->
+</div><!-- .research-with-sidebar -->

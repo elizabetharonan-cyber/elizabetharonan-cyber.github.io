@@ -39,9 +39,16 @@ nav_order: 2
 
   <!-- Main Content -->
   <div style="flex: 1; min-width: 0;">
-        <div class="publications">
-    {% bibliography --file papers --sort year --order descending %}
-    </div>
+
+<h3 style="color: var(--global-theme-color); border-bottom: 2px solid var(--global-theme-color); padding-bottom: 0.4rem; margin-bottom: 0.5rem;"><em>C. elegans</em> Sensory Biology (Xu Lab, PhD)</h3>
+<div class="publications">
+{% bibliography --file papers --query @*[author ~= Xu] --sort year --order descending %}
+</div>
+
+<h3 style="color: var(--global-theme-color); border-bottom: 2px solid var(--global-theme-color); padding-bottom: 0.4rem; margin-top: 2.5rem; margin-bottom: 0.5rem;">Orofacial Somatosensation (Emrick Lab, Postdoc)</h3>
+<div class="publications">
+{% bibliography --file papers --query @*[author ~= Emrick] --sort year --order descending %}
+</div>
 
   </div>
 </div>

@@ -13,7 +13,6 @@ nav_order: 2
     </div>
 </div>
 
-  
   <!-- Content -->
   <div style="flex: 1; min-width: 300px;">
     <h1 style="margin-top: 0;">Elizabeth A. Ronan, PhD</h1>

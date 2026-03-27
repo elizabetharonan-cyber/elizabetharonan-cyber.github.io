@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-27'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Protocol for the precise activation of intradental neurons in mice via electrical stimulation
     year: '2026'
   8YQwM9IAAAAJ:9yKSN-GCB0IC:
-    citations: 148
+    citations: 149
     title: RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans
     year: '2015'
   8YQwM9IAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: 'TRP channels: Intestinal bloating TRiPs up pathogen avoidance'
     year: '2021'
   8YQwM9IAAAAJ:UeHWp8X0CEIC:
-    citations: 22
+    citations: 23
     title: A C. elegans neuron both promotes and suppresses motor behavior to fine tune motor output
     year: '2023'
   8YQwM9IAAAAJ:UebtZRa9Y70C:

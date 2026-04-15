@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-15'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Cold sensing by a glutamate receptor drives avoidance behavior in Drosophila larvae
     year: '2025'
   8YQwM9IAAAAJ:2osOgNQ5qMEC:
-    citations: 112
+    citations: 114
     title: A cold-sensing receptor encoded by a glutamate receptor gene
     year: '2019'
   8YQwM9IAAAAJ:8k81kl-MbHgC:
@@ -22,7 +22,7 @@ papers:
     title: Regulation of photosensation by hydrogen peroxide and antioxidants in C. elegans
     year: '2020'
   8YQwM9IAAAAJ:LkGwnXOMwfcC:
-    citations: 5
+    citations: 6
     title: Intradental mechano-nociceptors serve as sentinels that prevent tooth damage
     year: '2025'
   8YQwM9IAAAAJ:MXK_kJrjxJIC:
@@ -42,7 +42,7 @@ papers:
     title: A C. elegans neuron both promotes and suppresses motor behavior to fine tune motor output
     year: '2023'
   8YQwM9IAAAAJ:UebtZRa9Y70C:
-    citations: 5
+    citations: 7
     title: Dietary cinnamon promotes longevity and extends healthspan via mTORC1 and autophagy signaling
     year: '2025'
   8YQwM9IAAAAJ:W7OEmFMy1HYC:
@@ -54,7 +54,7 @@ papers:
     title: Sensing of sound pressure gradients by C. elegans drives phonotaxis behavior
     year: '2023'
   8YQwM9IAAAAJ:Y0pCki6q_DkC:
-    citations: 52
+    citations: 53
     title: The nematode C. elegans senses airborne sound
     year: '2021'
   8YQwM9IAAAAJ:YsMSGLbcyi4C:
@@ -86,7 +86,7 @@ papers:
     title: The anatomy, neurophysiology, and cellular mechanisms of intradental sensation
     year: '2024'
   8YQwM9IAAAAJ:u-x6o8ySG0sC:
-    citations: 133
+    citations: 134
     title: Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel
     year: '2015'
   8YQwM9IAAAAJ:u5HHmVD_uO8C:

@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-15'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Cold sensing by a glutamate receptor drives avoidance behavior in Drosophila larvae
     year: '2025'
   8YQwM9IAAAAJ:2osOgNQ5qMEC:
-    citations: 116
+    citations: 117
     title: A cold-sensing receptor encoded by a glutamate receptor gene
     year: '2019'
   8YQwM9IAAAAJ:8k81kl-MbHgC:
@@ -76,17 +76,17 @@ papers:
   8YQwM9IAAAAJ:hqOjcs7Dif8C:
     citations: 1
     title: 'Automated analysis of C. elegans behavior by LabGym: an open-source, AI-powered platform'
-    year: '2025'
+    year: '2026'
   8YQwM9IAAAAJ:qjMakFHDy7sC:
     citations: 8
     title: "RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep 11: 1123\u20131133"
     year: '2015'
   8YQwM9IAAAAJ:roLk4NBRz8UC:
-    citations: 18
+    citations: 19
     title: The anatomy, neurophysiology, and cellular mechanisms of intradental sensation
     year: '2024'
   8YQwM9IAAAAJ:u-x6o8ySG0sC:
-    citations: 134
+    citations: 135
     title: Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel
     year: '2015'
   8YQwM9IAAAAJ:u5HHmVD_uO8C:

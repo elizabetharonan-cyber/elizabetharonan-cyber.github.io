@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-15'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -22,11 +22,11 @@ papers:
     title: Regulation of photosensation by hydrogen peroxide and antioxidants in C. elegans
     year: '2020'
   8YQwM9IAAAAJ:LkGwnXOMwfcC:
-    citations: 6
+    citations: 7
     title: Intradental mechano-nociceptors serve as sentinels that prevent tooth damage
     year: '2025'
   8YQwM9IAAAAJ:MXK_kJrjxJIC:
-    citations: 0
+    citations: 1
     title: A touch-guided neural circuit regulates motivated gnawing to maintain dental alignment
     year: '2026'
   8YQwM9IAAAAJ:Se3iqnhoufwC:
@@ -82,11 +82,11 @@ papers:
     title: "RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep 11: 1123\u20131133"
     year: '2015'
   8YQwM9IAAAAJ:roLk4NBRz8UC:
-    citations: 20
+    citations: 22
     title: The anatomy, neurophysiology, and cellular mechanisms of intradental sensation
     year: '2024'
   8YQwM9IAAAAJ:u-x6o8ySG0sC:
-    citations: 135
+    citations: 134
     title: Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel
     year: '2015'
   8YQwM9IAAAAJ:u5HHmVD_uO8C:

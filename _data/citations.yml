@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-05'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Protocol for the precise activation of intradental neurons in mice via electrical stimulation
     year: '2026'
   8YQwM9IAAAAJ:9yKSN-GCB0IC:
-    citations: 149
+    citations: 147
     title: RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans
     year: '2015'
   8YQwM9IAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: 'TRP channels: Intestinal bloating TRiPs up pathogen avoidance'
     year: '2021'
   8YQwM9IAAAAJ:UeHWp8X0CEIC:
-    citations: 27
+    citations: 26
     title: A C. elegans neuron both promotes and suppresses motor behavior to fine tune motor output
     year: '2023'
   8YQwM9IAAAAJ:UebtZRa9Y70C:
@@ -70,11 +70,11 @@ papers:
     title: Surgical window preparation to visualize the trigeminal ganglion in an anesthetized mouse
     year: '2023'
   8YQwM9IAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 24
     title: "Fresh versus frozen engineered bone\u2013ligament\u2013bone grafts for sheep anterior cruciate ligament repair"
     year: '2015'
   8YQwM9IAAAAJ:eQOLeE2rZwMC:
-    citations: 11
+    citations: 13
     title: "Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel. Cell Rep. 11: 1414\u20131424"
     year: '2015'
   8YQwM9IAAAAJ:hqOjcs7Dif8C:
@@ -86,7 +86,7 @@ papers:
     title: "RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep 11: 1123\u20131133"
     year: '2015'
   8YQwM9IAAAAJ:roLk4NBRz8UC:
-    citations: 26
+    citations: 27
     title: The anatomy, neurophysiology, and cellular mechanisms of intradental sensation
     year: '2024'
   8YQwM9IAAAAJ:u-x6o8ySG0sC:
@@ -95,5 +95,5 @@ papers:
     year: '2015'
   8YQwM9IAAAAJ:u5HHmVD_uO8C:
     citations: 3
-    title: Insulin signaling genes modulate nicotine-induced behavioral responses in Caenorhabditis elegans
+    title: Insulin signaling genes modulate nicotine-induced behavioral responses in C. elegans
     year: '2016'

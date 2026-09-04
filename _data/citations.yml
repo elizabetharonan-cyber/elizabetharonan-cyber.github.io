@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-09-04'
 papers:
   8YQwM9IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: A cold-sensing receptor encoded by a glutamate receptor gene
     year: '2019'
   8YQwM9IAAAAJ:3fE2CSJIrl8C:
-    citations: 5
+    citations: 6
     title: "RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep. 2015; 11 (7): 1123\u201333"
     year: Unknown Year
   8YQwM9IAAAAJ:8k81kl-MbHgC:
@@ -18,19 +18,23 @@ papers:
     title: Protocol for the precise activation of intradental neurons in mice via electrical stimulation
     year: '2026'
   8YQwM9IAAAAJ:9yKSN-GCB0IC:
-    citations: 148
+    citations: 150
     title: RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans
     year: '2015'
   8YQwM9IAAAAJ:IjCSPb-OGe4C:
     citations: 14
     title: Regulation of photosensation by hydrogen peroxide and antioxidants in C. elegans
     year: '2020'
+  8YQwM9IAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: Deep-tissue mechanosensation emerges from the interaction of external force and internal tissue state
+    year: '2026'
   8YQwM9IAAAAJ:LkGwnXOMwfcC:
-    citations: 7
+    citations: 10
     title: Intradental mechano-nociceptors serve as sentinels that prevent tooth damage
     year: '2025'
   8YQwM9IAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: A touch-guided neural circuit regulates motivated gnawing to maintain dental alignment
     year: '2026'
   8YQwM9IAAAAJ:Se3iqnhoufwC:
@@ -58,7 +62,7 @@ papers:
     title: Sensing of sound pressure gradients by C. elegans drives phonotaxis behavior
     year: '2023'
   8YQwM9IAAAAJ:Y0pCki6q_DkC:
-    citations: 55
+    citations: 56
     title: The nematode C. elegans senses airborne sound
     year: '2021'
   8YQwM9IAAAAJ:YsMSGLbcyi4C:
@@ -74,23 +78,27 @@ papers:
     title: "Fresh versus frozen engineered bone\u2013ligament\u2013bone grafts for sheep anterior cruciate ligament repair"
     year: '2015'
   8YQwM9IAAAAJ:eQOLeE2rZwMC:
-    citations: 13
+    citations: 14
     title: "Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel. Cell Rep. 11: 1414\u20131424"
     year: '2015'
   8YQwM9IAAAAJ:hqOjcs7Dif8C:
     citations: 1
     title: 'Automated analysis of C. elegans behavior by LabGym: an open-source, AI-powered platform'
     year: '2026'
+  8YQwM9IAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: 'LabGrymace: Automated Analysis of Mouse Grimace for Quantitative Assessment of Pain Dynamics'
+    year: '2026'
   8YQwM9IAAAAJ:qjMakFHDy7sC:
     citations: 8
     title: "RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep 11: 1123\u20131133"
     year: '2015'
   8YQwM9IAAAAJ:roLk4NBRz8UC:
-    citations: 28
+    citations: 29
     title: The anatomy, neurophysiology, and cellular mechanisms of intradental sensation
     year: '2024'
   8YQwM9IAAAAJ:u-x6o8ySG0sC:
-    citations: 137
+    citations: 139
     title: Environmental temperature differentially modulates C. elegans longevity through a thermosensitive TRP channel
     year: '2015'
   8YQwM9IAAAAJ:u5HHmVD_uO8C:
